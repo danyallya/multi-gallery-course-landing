@@ -1,4 +1,4 @@
-```markdown
+
 # Multi Gallery Course Landing
 
 A clean and responsive multi-page landing website featuring multiple gallery styles for courses and general media. Built with **HTML5**, **CSS3**, and **jQuery**, this project is ideal for educational platforms, academies, or training centers.
@@ -24,6 +24,7 @@ All assets are neatly organized and built without frameworks for easy customizat
 > ⚠️ Note: This is a frontend-only project. Can be easily extended with backend integration.
 
 ## 📁 Project Structure
+```markdown
 multi-gallery-course-landing/
 ├── index.html # Homepage with general info
 ├── gallery.html # Media/image gallery
@@ -36,7 +37,7 @@ multi-gallery-course-landing/
 │ ├── images/ # Banners, course thumbnails, icons
 │ └── fonts/ # Custom fonts
 
-
+```
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
